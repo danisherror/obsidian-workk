@@ -1,3 +1,4 @@
+- Automate a task in vs code {for terminal ---- do the command line removal}
 - chrome extension for taking time in which you visit the site, number of time you are visiting.
 - Make a site in which you can take the enter the urls of the online file and our site will, allow to to edit the pdf(like done with edge)
   online and save that file in your git repo.
@@ -40,9 +41,8 @@
 	- In this project we will give token to the each request and driver can verify the map with users by verifying the token with the users
 	- So no information leak of users. 
 	- Allow the deletion of token after 2 days, so that there is no link to user allow the user to be privacy feature enabled.
-
-
-
+- create the 3d view of a person by taking the photos 
+- find the location and user information using the ip address
 
 
 
