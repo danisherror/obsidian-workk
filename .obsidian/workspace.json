@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3055ad0dd8a3311a",
+        "id": "87c0fa078c845611",
         "type": "tabs",
         "children": [
           {
-            "id": "e473e4e47c6a8434",
+            "id": "3fdc17094c3cdbcf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -60,8 +60,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "069f698e40a8b5e9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,9 +144,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e473e4e47c6a8434",
-  "lastOpenFiles": []
+  "active": "3fdc17094c3cdbcf",
+  "lastOpenFiles": [
+    "Tags"
+  ]
 }
