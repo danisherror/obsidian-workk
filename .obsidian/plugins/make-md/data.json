@@ -40,7 +40,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "//Tags",
+    "/",
+    "//oracle",
+    "//oracle/oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens",
+    "//Excalidraw"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

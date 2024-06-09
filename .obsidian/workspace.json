@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87c0fa078c845611",
+        "id": "17871fe0338af6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3fdc17094c3cdbcf",
+            "id": "0d384bf16f9df966",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Drawing 2024-06-10 02.20.22.excalidraw.md"
+              }
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8c421f4e37367678",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Drawing 2024-06-10 02.20.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Drawing 2024-06-10 02.20.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Drawing 2024-06-10 02.20.22.excalidraw.md"
+              }
             }
           }
         ]
@@ -149,8 +156,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3fdc17094c3cdbcf",
+  "active": "0d384bf16f9df966",
   "lastOpenFiles": [
+    "Excalidraw/Excalidraw.md",
+    "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Drawing 2024-06-10 02.20.22.excalidraw.md",
+    "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens.md",
+    "Excalidraw",
+    "oracle/oracle.md",
+    "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens/Six Small Algorithm Projects with Python Charles Rice, Rod Stephens.md",
+    "oracle/ Six Small Algorithm Projects with Python Charles Rice, Rod Stephens",
+    "Untitled.md",
+    "Untitled",
+    "oracle",
+    "obsdian-work.md",
+    "deeplearning_ai/deeplearning_ai.md",
     "Tags"
   ]
 }
